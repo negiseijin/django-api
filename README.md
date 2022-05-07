@@ -46,5 +46,5 @@
 
 - requirements.txt にモジュール出力
   `pip freeze > requirements.txt`
-- `git clone` した場合などの環境構築
-  ` python3 -m pip install -r requirements.txt`
+- `git clone` した場合の環境構築
+  `python3 -m pip install -r requirements.txt`
